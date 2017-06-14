@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<goal name="overallSatisfaction">
+
+    <porownania>
+
+        <proporcja>0.33333333333</proporcja>
+
+        <proporcja>5</proporcja>
+
+        <proporcja>7</proporcja>
+
+    </porownania>
+
+    <kryteria name="climate">
+
+        <porownania>
+
+        <proporcja>0.33333333333</proporcja>
+
+        <proporcja>5</proporcja>
+
+        <proporcja>7</proporcja>
+
+        </porownania>
+
+    </kryteria>
+
+    <kryteria name="sightseeing">
+
+        <porownania>
+
+            <proporcja>0.33333333333</proporcja>
+
+            <proporcja>5</proporcja>
+
+            <proporcja>7</proporcja>
+
+        </porownania>
+
+    </kryteria>
+
+    <kryteria name="environment">
+
+        <porownania>
+
+            <proporcja>0.33333333333</proporcja>
+
+            <proporcja>5</proporcja>
+
+            <proporcja>7</proporcja>
+
+        </porownania>
+
+    </kryteria>
+
+</goal>
